@@ -1,0 +1,37 @@
+/**
+ * @author    WP-Store.io <code@wp-store.io>
+ * @copyright Copyright (c) 2015, WP-Store.io
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GPL-2.0+
+ * @package   WPStore\ChildThemeName
+ * @version   0.0.1
+ */
+/*
+Theme Name:  Child Theme Name
+Theme URI:   https://www.wp-store.io/themes/child-theme-name/
+Template:    parent-theme-slug
+Description: Fixed is a neatly designed blog-style theme, perfect for sharing photos, videos, quotes, and thoughts.
+Author:      WP-Store.io
+Author URI:  https://www.wp-store.io
+Version:     0.0.1
+Tags:        tag1, tag2, tag3
+License:     GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: child-theme-slug
+Domain Path: /languages
+
+    Child Theme Name
+    Copyright (C) 2015 WPStore.io (https://www.wp-store.io)
+
+    This program is free software; you can redistribute it and/or
+	modify it under the terms of the GNU General Public License
+	as published by the Free Software Foundation; either version 2
+	of the License, or (at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
